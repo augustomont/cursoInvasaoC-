@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\bin\Debug\net7.0\DAteTime.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\bin\Debug\net7.0\DAteTime.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\bin\Debug\net7.0\DAteTime.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\bin\Debug\net7.0\DAteTime.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\bin\Debug\net7.0\DAteTime.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\DAteTime.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\DAteTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\DAteTime.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\DAteTime.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\DAteTime.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\DAteTime.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\refint\DAteTime.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\DAteTime.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\DAteTime.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\DAteTime\obj\Debug\net7.0\ref\DAteTime.dll

@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\bin\Debug\net7.0\operadoresAritmeticos.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\bin\Debug\net7.0\operadoresAritmeticos.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\bin\Debug\net7.0\operadoresAritmeticos.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\bin\Debug\net7.0\operadoresAritmeticos.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\bin\Debug\net7.0\operadoresAritmeticos.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\operadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\operadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\operadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\operadoresAritmeticos.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\operadoresAritmeticos.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\refint\operadoresAritmeticos.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\operadoresAritmeticos.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\operadoresAritmeticos.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadores\operadoresAritmeticos\obj\Debug\net7.0\ref\operadoresAritmeticos.dll
