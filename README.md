@@ -6,3 +6,5 @@
  clique em abrir com o Visual Studio.
  
  Isso vai criar uma copia na sua maquina.
+
+É necessário que você ja tenha instalado o Visual Studio no seu computador.
