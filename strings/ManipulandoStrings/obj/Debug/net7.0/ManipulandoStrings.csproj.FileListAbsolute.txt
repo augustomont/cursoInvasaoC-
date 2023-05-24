@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\bin\Debug\net7.0\ManipulandoStrings.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\refint\ManipulandoStrings.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ManipulandoStrings.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\strings\ManipulandoStrings\obj\Debug\net7.0\ref\ManipulandoStrings.dll
