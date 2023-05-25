@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\operadoresRelacionais.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\operadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\operadoresRelacionais.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\operadoresRelacionais.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\operadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\bin\Debug\net7.0\operadoresRelacionais.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\bin\Debug\net7.0\operadoresRelacionais.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\bin\Debug\net7.0\operadoresRelacionais.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\bin\Debug\net7.0\operadoresRelacionais.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\bin\Debug\net7.0\operadoresRelacionais.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\operadoresRelacionais.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\refint\operadoresRelacionais.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\operadoresRelacionais.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\operadoresRelacionais.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\operadoresRelacionais\operadoresRelacionais\obj\Debug\net7.0\ref\operadoresRelacionais.dll
