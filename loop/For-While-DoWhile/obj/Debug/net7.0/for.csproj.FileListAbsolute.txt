@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\bin\Debug\net7.0\for.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\bin\Debug\net7.0\for.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\bin\Debug\net7.0\for.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\bin\Debug\net7.0\for.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\bin\Debug\net7.0\for.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\for.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\for.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\for.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\for.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\for.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\refint\for.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\for.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\for.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\loop\for\obj\Debug\net7.0\ref\for.dll
