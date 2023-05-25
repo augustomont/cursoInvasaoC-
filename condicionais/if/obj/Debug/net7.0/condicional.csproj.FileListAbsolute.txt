@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\bin\Debug\net7.0\condicional.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\bin\Debug\net7.0\condicional.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\bin\Debug\net7.0\condicional.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\bin\Debug\net7.0\condicional.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\bin\Debug\net7.0\condicional.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\condicional.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\condicional.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\condicional.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\condicional.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\condicional.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\refint\condicional.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\condicional.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\condicional.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\condicional\obj\Debug\net7.0\ref\condicional.dll

@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\bin\Debug\net7.0\switch.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\bin\Debug\net7.0\switch.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\bin\Debug\net7.0\switch.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\bin\Debug\net7.0\switch.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\bin\Debug\net7.0\switch.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\switch.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\switch.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\switch.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\switch.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\refint\switch.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\switch.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\switch.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\HenriqueEduardo\condicional\switch\obj\Debug\net7.0\ref\switch.dll
